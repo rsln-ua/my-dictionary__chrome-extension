@@ -1,0 +1,1 @@
+export const actionModalRootElement = 'action-modal-root-element';
